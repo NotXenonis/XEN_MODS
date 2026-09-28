@@ -1,2 +1,3 @@
-# mods_for_pc_ports
-Rep for future mods, with assistance from a friend & AI.
+# Xen's Mods for PC Ports.
+
+A repo of every modification I have ever created, with assistance of a friend well versed in code, alongside AI.
